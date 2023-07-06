@@ -1,12 +1,4 @@
- 11
-push 1
-push 3
-top
-getMin
-pop
-top
-getMin
-pop
-pop
-top
-getMin
+3
+10 15
+21 14
+10 22
